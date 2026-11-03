@@ -11,16 +11,21 @@ console.log("kc")
 
 //data types {PRIMITIVE}
 let name="Kanishka"
+console.log(typeof name);
 //*string => ""\''
 
-let age=18               
+let age=18   
+console.log(typeof age);
+            
 /* number => 2^53
 big int for larger numbers*/
 
 let isLoggedIn= true 
+console.log(typeof isLoggedIn);
 //boolean =>true\false
 
 let state=null
+console.log(typeof state);
 //null =>standalone value and datatype too. Representation of empty value. It's type is 'object' {flaw of js or language error}
 
 /*undefined => when no value assigned, variable is there but no value, matlab kuch toh hai par bataya nahi. It is a type itself
@@ -28,7 +33,7 @@ let state=null
 
 //symbol => to identify the uniqueness of a component. taled mainly in react js
 
-//data types {DERIVED}
-//object
+//object=> data type for 'null'
 
 console.log(typeof null);
+
