@@ -62,11 +62,12 @@ let str3 = str1+str2
 //console.log(str3);
 
 // tere error ki jai mata di, yeh 12 kahan se janma hai bhai );
-//console.log("1"+2);
-//console.log(1+"2");
+//console.log("1"+2); // concatination so 12
+//console.log(1+"2"); // same case as above
 //bhai ye 14 kyun ni hua
-//console.log("1"+2+2);
+//console.log("1"+2+2); // here concatinate so 122
 //console.log(1+2+"2"); // kya se kya hogaya :( HADD HAI PEHLE PLUS KARNE MEIN MAUT AA RAHI THIS WAHAN TO 14 LIKHA NI GAYA YAHN 32 WAH BETE WAH
+// if "" is at the ast term then all the terms before will e added and then concatnate ie 32
 
 // pagalpanti wale conversion :)
 //console.log(true);
