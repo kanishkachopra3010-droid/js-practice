@@ -31,7 +31,7 @@ console.log(typeof state);
 /*undefined => when no value assigned, variable is there but no value, matlab kuch toh hai par bataya nahi. It is a type itself
  It's type is 'undefined' {again a flaw of js}*/
 
-//symbol => to identify the uniqueness of a component. taled mainly in react js
+//symbol => to identify the uniqueness of a component used mainly in react js
 
 //object=> data type for 'null'
 
